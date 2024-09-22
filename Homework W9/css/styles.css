@@ -1,0 +1,7 @@
+#symbol_map {
+    width: 100%;       /* Make the map responsive to the container */
+    height: 600px;     /* Set a fixed height for the map container */
+    margin: 20px auto; /* Center the map */
+    border: 1px solid #ccc; /* Add a border around the map */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow effect */
+}
